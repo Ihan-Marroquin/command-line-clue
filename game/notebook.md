@@ -6,7 +6,7 @@
 - [X] The Banker
 
 ## Weapons
-- [ ] Steel Ruler
+- [X] Steel Ruler
 - [X] Garden Shears
 - [ ] Old Key
 
