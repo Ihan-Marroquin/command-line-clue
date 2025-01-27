@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Carpenter
 - [ ] The Chef
-- [ ] The Banker
+- [X] The Banker
 
 ## Weapons
 - [ ] Steel Ruler
