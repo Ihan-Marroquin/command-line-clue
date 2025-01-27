@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Steel Ruler
-- [ ] Garden Shears
+- [X] Garden Shears
 - [ ] Old Key
 
 ## Notes
