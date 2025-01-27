@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Carpenter
-- [ ] The Chef
+- [X] The Chef
 - [X] The Banker
 
 ## Weapons
